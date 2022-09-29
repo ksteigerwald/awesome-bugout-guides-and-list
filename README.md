@@ -1,6 +1,7 @@
 # Awesome Bugout Guides and Preparedness Checklist 
-awesome-bugout-guides-and-list
-Bugout Guides, Bugout Bags, Preparedness Checklist, Survival Guides
+These guides will teach you how to Bugout and be prepared for any emergency situation.
+
+
 
 - Wildfire evacuation
   - [Wildfire evacuation: My Story of fleeing the Marshall Fires in Boulder, Colorado](https://bugoutguides.com/index.php/2022/09/29/wildfire-evacuation-my-story-of-fleeing-the-marshall-fires-in-boulder-colorado/)
